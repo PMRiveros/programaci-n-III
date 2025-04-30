@@ -1,0 +1,11 @@
+li,
+label {
+   font:
+    1rem "Fira Sans",
+    sans-serif;
+}
+
+h1 {
+  color: red,
+  background-image: url("https://www.es.amnesty.org/fileadmin/user_upload/ONU_fachada.jpg");
+}
