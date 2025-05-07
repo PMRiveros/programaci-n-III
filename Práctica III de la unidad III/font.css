@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("font/static/Montserrat-Black.ttf" ) format("truetype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("font/static/Montserrat-ThinItalic.ttf" ) format("truetype");
+    font-weight: 700;
+}
